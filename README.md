@@ -16,4 +16,4 @@ Built with:
 Run the app locally with one command:
 
 ```bash
-docker run -p 8080:5000 santy01161/carpriceprediction:latest
+docker run -p 8080:8080 santy01161/carpriceprediction:latest
